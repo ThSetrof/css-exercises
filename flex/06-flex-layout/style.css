@@ -58,3 +58,15 @@ a{
   color: #585555;
   font-weight: 500;
 }
+
+.content{
+  text-align: center;
+}
+
+button{
+  padding: 8px;
+}
+
+.footer{
+  background-color: #eeeeee;
+}
