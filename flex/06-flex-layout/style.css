@@ -45,3 +45,11 @@ body{
   justify-content: space-between;
   align-items: center;
 }
+
+ul{
+  list-style-type: none;
+  display: flex;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+}
